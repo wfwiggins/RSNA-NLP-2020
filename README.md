@@ -1,6 +1,6 @@
 # RSNA 2020 Refresher Course
 ## Hands-on AI for Non-coders: Basics of Information Extraction from Radiology Reports
-For the demo, select the file named `RSNA20_NLP.ipynb` from the list above and click the link to open the notebook in Google Colab.
+For the demo, [click here](https://colab.research.google.com/github/wfwiggins/RSNA-NLP-2020/blob/master/RSNA20_NLP.ipynb) to open the `RSNA20_NLP.ipynb` notebook in Google Colab.
 
 ## Contributing
 If you would like to contribute to the development of the demo notebook, please start by creating a fork of this repository.
