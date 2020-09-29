@@ -12,3 +12,18 @@ You can develop the notebook in Colab by following these steps:
 - Edit the notebook...
 - When you're ready to push your changes back to GitHub, select *Save a Copy to GitHub* from the File menu and save it back to your repo with a commit message describing what you changed or added
 - Finally, return to your GitHub repo to *Compare & Submit a Pull Request*
+
+## TO-DO
+**Notebook:**
+1. Load test set and assess model performance, compare to validation - WALTER
+2. Rename variables to error-proof against cells being run out-of-order - WALTER
+3. Improve UI and visuals inside the notebook - IGOR/FELIPE
+4. Build in visualization of model inferences - IGOR/WALTER
+5. Move "Text Generator" to the end - WALTER
+
+**PowerPoint:**
+Create PowerPoint with high-level explanation of concepts.
+1. t-SNE visualization of embeddings - LUCIANO
+2. XML file structure visual - IGOR
+3. Summary slide for steps in notebook - WALTER
+4. Graph/flow representation of RNN processing text - LUCIANO
