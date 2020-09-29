@@ -15,11 +15,11 @@ You can develop the notebook in Colab by following these steps:
 
 ## TO-DO
 **Notebook:**
-~~1. Load test set and assess model performance, compare to validation - WALTER~~
-~~2. Rename variables to error-proof against cells being run out-of-order - WALTER~~
+1. ~~Load test set and assess model performance, compare to validation - WALTER~~
+2. ~~Rename variables to error-proof against cells being run out-of-order - WALTER~~
 3. Improve UI and visuals inside the notebook - IGOR/FELIPE
 4. Build in visualization of model inferences - IGOR/WALTER (_partially complete_)
-~~5. Move "Text Generator" to the end - WALTER~~
+5. ~~Move "Text Generator" to the end - WALTER~~
 
 **PowerPoint:**
 1. Create Google Drive "Slides" file for high-level explanation of concepts - IGOR
