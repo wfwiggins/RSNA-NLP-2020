@@ -22,8 +22,14 @@ You can develop the notebook in Colab by following these steps:
 5. Move "Text Generator" to the end - WALTER
 
 **PowerPoint:**
-Create PowerPoint with high-level explanation of concepts.
-1. t-SNE visualization of embeddings - LUCIANO
-2. XML file structure visual - IGOR
-3. Summary slide for steps in notebook - WALTER
-4. Graph/flow representation of RNN processing text - LUCIANO
+1. Create Google Drive "Slides" file for high-level explanation of concepts - IGOR
+2. t-SNE visualization of embeddings - LUCIANO
+3. XML file structure visual - IGOR
+4. Summary slide for steps in notebook - WALTER
+5. Graph/flow representation of RNN processing text - LUCIANO
+
+**Video:**
+1. Record video of notebook presentation - WALTER
+2. Divide up slide presentation - IGOR/LUCIANO/FELIPE
+3. Record each person's part - IGOR/LUCIANO/FELIPE
+4. Edit and combine in Camtasia - LUCIANO
